@@ -27,8 +27,8 @@ Favorite and unfavorite the pictures, and visualize it through a modal
 
 ### Screenshot
 
-![Desktop View](./src/assets/ss/spaceapp.png);
-![Modal](./src/assets/ss/modalView.png);
+![Desktop View](./space-app/src/assets/ss/spaceapp.png);
+![Modal](./space-app/src/assets/ss/modalView.png);
 
 
 ### Links
