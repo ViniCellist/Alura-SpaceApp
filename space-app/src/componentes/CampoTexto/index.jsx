@@ -29,7 +29,7 @@ const IconeLupa = styled.img`
     height: 38px;
 `;
 
-const InputText = (props) => {
+const CampoTexto = (props) => {
     return(
         <ContainerEstilizado>
             <CampoTextoEstilizado placeholder="O que você procura?" {...props} />
@@ -38,4 +38,4 @@ const InputText = (props) => {
     )
 }
 
-export default InputText;
+export default CampoTexto;
